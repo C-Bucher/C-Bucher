@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+### Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-Bucher&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
